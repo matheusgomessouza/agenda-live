@@ -1,4 +1,4 @@
-#Agenda Live
+# AgendaLive
 
 Projeto desenvolvido com intuito de agendamento de lives. Mentorado por @MichelliBrito 
 
